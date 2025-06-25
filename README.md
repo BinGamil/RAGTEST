@@ -20,3 +20,5 @@ This repository contains a minimal example of how to build a semantic search sys
 
 - This example is intentionally lightweight and meant as a starting point. In a production environment you may want to persist the FAISS index, handle updates, and build a user-facing API.
 - Always ensure your use of WestLaw content complies with Thomson Reuters' licensing terms.
+
+
